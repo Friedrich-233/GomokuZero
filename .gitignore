@@ -1,0 +1,14 @@
+gomoku/__pycache__/*
+gomoku/runs/*
+gomoku/notebook.ipynb
+runs/*
+train.log
+zero_mcts_rs/target_ra/*
+
+
+*.egg-info.DS_Store
+.ipynb_checkpoints/
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
